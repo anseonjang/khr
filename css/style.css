@@ -63,11 +63,11 @@ section#career .careerInner h3 { font-size: 50px; padding: 120px 0 90px 0; color
 section#career .careerInner h3>span { width: 10px; height: 10px; border-radius: 50%; position: absolute; top: 130px; background-color:  #004c98; } 
 section#career .careerInner .redBox { width: 700px; height: 430px; background-color:  #e0002b; position: absolute; bottom: 100px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.9); } 
 
-.top { font-size: 40px; position: absolute; left: 70px; top:50px; font-weight: bold; } 
-.top+span { position: absolute; left: 70px; top: 110px; font-size: 15px; } 
+.top { font-size: 35px; position: absolute; left: 70px; top:40px; font-weight: bold; } 
+.top+span { position: absolute; left: 70px; top: 100px; font-size: 14px; } 
 
-.top2 { font-size: 40px; position: absolute; left: 70px; top: 230px; font-weight: bold; } 
-.top2+span { position: absolute; left: 70px; top: 290px; font-size: 15px; } 
+.top2 { font-size: 35px; position: absolute; left: 70px; top: 235px; font-weight: bold; } 
+.top2+span { position: absolute; left: 70px; top: 290px; font-size: 14px; } 
 
 .bottomW { width: 50%; height: 95px; background-color: #fff; position: absolute; right: 0; bottom: 0; display: flex; align-items: center; /* 수직 중앙정렬 */ } 
 .bottomW a { color: #000; font-weight: bold; font-size: 25px; padding-left: 30px; display: block; } 
@@ -143,7 +143,7 @@ header .innerHeader .navbar { display: flex; justify-content: space-between; ali
  section#mainImg .mainText .title p { font-weight: bold; font-size: 60px; letter-spacing: -1px; } 
  section#mainImg .mainText .ciDown { text-align: center; left: 50%; top: 75vh; transform: translate(-50%, -50%); } 
  section#mainImg .mainText .ciDown h3 { font-size: 30px; text-align: center; } 
- section#mainImg .mainText .ciDown .btn { left: 50%; top: 10vh; transform: translateX(-50%); } 
+ section#mainImg .mainText .ciDown .btn { left: 50%; top: 17vh; transform: translateX(-50%); } 
  /* ======================================
  about 
 ======================================*/
@@ -168,8 +168,15 @@ section#about .aboutInner ul li { width: 100%; height:auto; }
  section#career .careerInner h3 { font-size: 7vw; color: #fff; padding: 5% 0; position: relative; text-align: center; } 
  section#career .careerInner h3>span { width: 0.2em; height: 0.2em; border-radius: 50%; position: absolute; top: 40%; transform: translateY(-50%); background-color:  #e0002b; } 
  section#career .careerInner .redBox { width: 95%; background-color:  #e0002b; position: absolute; bottom: 100px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.9); } 
- .top { font-size: 40px; position: absolute; left: 70px; top: 70px; font-weight: bold; } 
- .top+span { font-size: 15px; position: absolute; left: 70px; top: 150px; } 
+
+
+.top { font-size: 30px; position: absolute; left: 70px; top: 70px; font-weight: bold; } 
+.top+span { font-size: 14px; position: absolute; left: 70px; top: 120px; } 
+
+.top2 { font-size: 30px; position: absolute; left: 70px; top: 230px; font-weight: bold; } 
+.top2+span { position: absolute; left: 70px; top: 280px; font-size: 14px; } 
+
+
  .bottomW a:hover span { color:  #004c98; } 
  /* ==================================== 
  Products 
