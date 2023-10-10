@@ -167,14 +167,15 @@ section#about .aboutInner ul li { width: 100%; height:auto; }
  section#career .careerInner { width: 95%; } 
  section#career .careerInner h3 { font-size: 7vw; color: #fff; padding: 5% 0; position: relative; text-align: center; } 
  section#career .careerInner h3>span { width: 0.2em; height: 0.2em; border-radius: 50%; position: absolute; top: 40%; transform: translateY(-50%); background-color:  #e0002b; } 
- section#career .careerInner .redBox { width: 95%; background-color:  #e0002b; position: absolute; bottom: 100px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.9); } 
+ section#career .careerInner .redBox { width: 95%; background-color:  #e0002b;
+     position: absolute; bottom: 100px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.9); } 
 
 
-.top { font-size: 30px; position: absolute; left: 70px; top: 70px; font-weight: bold; } 
-.top+span { font-size: 14px; position: absolute; left: 70px; top: 120px; } 
+.top { font-size: 30px; position: absolute; left: 40px; top: 70px; font-weight: bold; } 
+.top+span { font-size: 13px; position: absolute; left: 40px; top: 120px; } 
 
-.top2 { font-size: 30px; position: absolute; left: 70px; top: 230px; font-weight: bold; } 
-.top2+span { position: absolute; left: 70px; top: 280px; font-size: 14px; } 
+.top2 { font-size: 30px; position: absolute; left: 40px; top: 230px; font-weight: bold; } 
+.top2+span { position: absolute; left: 40px; top: 280px; font-size: 13px; } 
 
 
  .bottomW a:hover span { color:  #004c98; } 
